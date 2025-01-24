@@ -1,4 +1,4 @@
-# Educational Encryption Project 🛡️
+# Desafio Ransoware - Encryption Project 🛡️
 
 Este projeto demonstra como usar Python para criptografar e descriptografar arquivos de forma educativa. Ele utiliza a biblioteca `cryptography` para ilustrar conceitos básicos de segurança de dados e criptografia simétrica.
 

@@ -1,6 +1,6 @@
 # Desafio Ransoware - Encryption Project 🛡️
 
-Este projeto demonstra como usar Python para criptografar e descriptografar arquivos de forma educativa. Ele utiliza a biblioteca `cryptography` para ilustrar conceitos básicos de segurança de dados e criptografia simétrica.
+Este projeto demonstra como usar Python para criptografar e descriptografar arquivos de forma educativa.
 
 ## 📁 Estrutura do Projeto
 - **`encrypter.py`**: Criptografa um arquivo usando uma chave gerada aleatoriamente e sobrescreve o arquivo original.
@@ -12,10 +12,6 @@ Este projeto demonstra como usar Python para criptografar e descriptografar arqu
 ### 1. Pré-requisitos
 - **Sistema operacional:** Kali Linux em uma máquina virtual (VirtualBox).
 - **Python:** Python 3.6 ou superior.
-- **Bibliotecas:** Instale a biblioteca necessária:
-  ```bash
-  pip install cryptography
-  ```
 
 ### 2. Passo a Passo
 
